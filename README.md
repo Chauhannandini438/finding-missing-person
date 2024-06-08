@@ -148,8 +148,7 @@ Once done you'll have to <b>Click on Refresh</b> button on train KNN Model and t
  
 
 ## Developer:
-## <a href="https://www.linkedin.com/in/gaganmanku96/">Gagandeep Singh</a>
-## Endorse me at LinkedIn if this project was helpful. [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gaganmanku96/)
+## <a href="https://www.linkedin.com/in/nandini-singh-691b69236/">Nandini Singh</a>
 
 
 ## Vote of Thanks
