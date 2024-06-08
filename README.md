@@ -16,7 +16,8 @@ Hundreds of people (especially children go missing every day) in India. There ar
 
 ## News Articles
 #### [Article 1](https://www.thehindu.com/society/indias-missing-children-what-the-whatsapp-rumours-dont-tell-you/article24641527.ece)
-![News Article 1](resources/news_1.PNG)
+![News Article 1](![image](https://github.com/Chauhannandini438/finding-missing-person/assets/130596342/97aa3c98-9c38-4407-92b9-0b5fe46fc061)
+)
 #### [Article 2](https://www.deccanchronicle.com/nation/current-affairs/250518/indias-children-174-go-missing-every-day-half-untraced.html)
 ![News Article 2](resources/news_2.PNG)
 
