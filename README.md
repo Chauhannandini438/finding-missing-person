@@ -3,7 +3,7 @@
 
 # [Web App Version of this Project](https://github.com/gaganmanku96/Finding-missing-person-using-AI/blob/master/more_projects.md)
 
-## [Youtube Link](https://www.youtube.com/channel/UC7ln87o0Gt8OkkHIqEmeDQw/videos)
+
 
 Hundreds of people (especially children go missing every day) in India. There are various <b>NGO's and Govt Initiatives</b> to help with it. This project tries to implement an  existing/new way to help.
 
