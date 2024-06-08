@@ -14,12 +14,6 @@ Hundreds of people (especially children go missing every day) in India. There ar
 - ### [Installation](#how-to-run)
 - ### [What is left/not working?](#what-is-left)
 
-## News Articles
-#### [Article 1](https://www.thehindu.com/society/indias-missing-children-what-the-whatsapp-rumours-dont-tell-you/article24641527.ece)
-![News Article 1](![image](https://github.com/Chauhannandini438/finding-missing-person/assets/130596342/97aa3c98-9c38-4407-92b9-0b5fe46fc061)
-)
-#### [Article 2](https://www.deccanchronicle.com/nation/current-affairs/250518/indias-children-174-go-missing-every-day-half-untraced.html)
-![News Article 2](resources/news_2.PNG)
 
 
 ## What is the objective of this Project and how will it help?
@@ -31,18 +25,17 @@ In such cases, the ideal approach is to go through CCTV footages and evidences. 
 The first step is to register a new case. The GUI application is built using <b>PyQT5</b> that allows you to collect all relevant information and store it in database <b>Postgres</b>.
 > Please ignore the SRK's image. It is just for the sake of project :)
 
-![New Case Window](resources/new_case.PNG)
+
 
 ### 2. Waiting for Users to submit images
 So far we have only talked about 'how new cases will be registered', the next thing we have to do is to match these registered cases but who do we match it with? This is where ours Users come in. These users are common people like you and me who wants to make a change in the society.<br>
 The common people will use an application on their mobile to submit photos of people who they think have lost or found begging while keeping them their identity anonymous. The anonymous part is very important because they fear of local <i>Gundas</i> that might create trouble for them.<br>
 > Mobile Application
-![Mobile Application](resources/mobile_application.PNG)
 
 > An android Application can also be build and used but I have very little experience in it.
 ### 3. Matching Cases
 The next step is to match the case images and user submitted images. To match <b>KNN Algorithm </b> is used.
-![Main Application](resources/app_window.PNG)
+
 
 ## How to run
 #### 1. With Docker (Easy)
@@ -58,8 +51,7 @@ $ cd app
 $ pip install -r requirements.txt --no-cache-dir
 $ python login_window.py
 ```
-At this point you'll see a window like this
-![Login Window](resources/login_screen.PNG)
+
 
 > Default username: admin
 > Default password: admin
@@ -80,8 +72,7 @@ $ ../mobile_app
 ```
 $ python ui.py
 ```
-After that you'll see a window like this<br>
-![mobile application](resources/mobile_application.PNG)
+
 
 You can this to submit user images or you can create your own mobile app.
 
@@ -109,8 +100,7 @@ $ cd app
 $ pip install -r requirements.txt
 $ python login.py
 ```
-At this point you'll see a window like this
-![Login Window](resources/login_screen.PNG)
+
 
 > Default username: admin
 > Default password: admin
@@ -131,8 +121,6 @@ $ ../mobile_app
 ```
 $ python ui.py
 ```
-After that you'll see a window like this<br>
-![mobile application](resources/mobile_application.PNG)
 
 You can this to submit user images or you can create your own mobile app.
 
